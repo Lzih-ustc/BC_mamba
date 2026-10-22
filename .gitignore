@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.so
+build/
+outputs/
+data/
+wandb/
+*.log
+checkpoints/
+experiment_records/
+.pytest_cache/

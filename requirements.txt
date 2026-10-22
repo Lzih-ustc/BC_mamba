@@ -1,0 +1,9 @@
+torch>=2.0
+setuptools>=70
+einops>=0.6
+causal-conv1d>=1.2
+mamba-ssm>=1.1
+datasets>=2.14
+torchvision
+Pillow
+pytorch-warmup>=0.1
