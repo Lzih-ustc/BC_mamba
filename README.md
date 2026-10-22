@@ -6,7 +6,7 @@ Chinese version: [README_zh.md](README_zh.md)
 
 BC_mamba is a research codebase for event-driven sequence modeling with sparse, binary-compressed selective scans.
 
-![BC_mamba architecture: network overview and dual-state BC_mamba block](assets/bc_mamba_architecture.png)
+![BC_mamba architecture: network overview and dual-state BC_mamba block](assets/bc_mamba_architecture_v2.png)
 
 *Architecture overview. The left panel shows the full sequence model; the right panel shows the event-driven scan and continuous-memory paths inside one block.*
 

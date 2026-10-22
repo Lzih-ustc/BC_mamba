@@ -6,7 +6,7 @@
 
 BC_mamba 是一个通过稀疏二值事件压缩选择性状态空间扫描来实现事件驱动序列建模的研究代码项目。
 
-![BC_mamba 架构图：整体网络与双状态模块](assets/bc_mamba_architecture.png)
+![BC_mamba 架构图：整体网络与双状态模块](assets/bc_mamba_architecture_v2.png)
 
 *架构图：左侧展示完整序列网络，右侧展示单个模块中的事件扫描路径和连续记忆路径。*
 
